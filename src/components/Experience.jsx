@@ -7,6 +7,8 @@ import node from "../assets/experience/node.png";
 import tailwind from "../assets/experience/tailwind.png";
 import github from "../assets/experience/github.png";
 import nextjs from "../assets/experience/nextjs.png";
+import expresjs from "../assets/experience/expresjs.png";
+import mongodb from "../assets/experience/mongodb.jpg"
 
 const Experience = () => {
   const techs = [
@@ -32,13 +34,13 @@ const Experience = () => {
       id: 4,
       src: react,
       title: "React",
-      style: "shadow-blue-600",
+      style: "shadow-sky-600",
     },
     {
       id: 5,
       src: node,
       title: "Node",
-      style: "shadow-sky-400",
+      style: "shadow-green-400",
     },
     {
       id: 6,
@@ -48,15 +50,29 @@ const Experience = () => {
     },
     {
       id: 7,
-      src: github,
-      title: "GitHub",
-      style: "shadow-red -400",
+      src: mongodb,
+      title: "Mongo Db",
+      style: "shadow-green-400",
+      
     },
     {
       id: 8,
       src: nextjs,
       title: "Next Js",
+      style: "shadow-pink-400",
+    },
+    {
+      id: 9,
+      src: expresjs,
+      title: "Express Js",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 10,
+      src: github,
+      title: "GitHub",
       style: "shadow-white",
+      
     },
   ];
 
