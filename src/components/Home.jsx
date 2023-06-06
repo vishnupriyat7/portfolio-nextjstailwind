@@ -1,7 +1,7 @@
 import React from "react";
 import HeroImage from "../assets/heroImage.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import {Link} from "react-icons"
+// import {Link} from "react-icons"
 
 const Home = () => {
   return (
@@ -15,12 +15,12 @@ const Home = () => {
             application using technologies like React, Tailwind, nd and NextJS
           </p>
           <div>
-            <Link to="resume" className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
+            <button  className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
               Portfolio
               <span className="group-hover:rotate-90 duration-300">
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1"/>
               </span>
-            </Link>
+            </button>
           </div>
         </div>
         <img src={HeroImage} alt="my picture" className="rounded-2xl mx-auto w-2/3 md:w-full"/>
