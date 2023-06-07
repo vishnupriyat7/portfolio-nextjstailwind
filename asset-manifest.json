@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-nextjstailwind/static/css/main.35b31458.css",
-    "main.js": "/portfolio-nextjstailwind/static/js/main.54283623.js",
+    "main.css": "/portfolio-nextjstailwind/static/css/main.86af774a.css",
+    "main.js": "/portfolio-nextjstailwind/static/js/main.0d13c21c.js",
     "static/media/klibf.png": "/portfolio-nextjstailwind/static/media/klibf.0c6e6a303db8f0c0e17b.png",
     "static/media/heroImage.png": "/portfolio-nextjstailwind/static/media/heroImage.09f7d2f6a5e06ded0a0d.png",
     "static/media/frontendtechnologies.png": "/portfolio-nextjstailwind/static/media/frontendtechnologies.67242f3b8d33858ecdb5.png",
@@ -17,11 +17,11 @@
     "static/media/css.png": "/portfolio-nextjstailwind/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/portfolio-nextjstailwind/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-nextjstailwind/index.html",
-    "main.35b31458.css.map": "/portfolio-nextjstailwind/static/css/main.35b31458.css.map",
-    "main.54283623.js.map": "/portfolio-nextjstailwind/static/js/main.54283623.js.map"
+    "main.86af774a.css.map": "/portfolio-nextjstailwind/static/css/main.86af774a.css.map",
+    "main.0d13c21c.js.map": "/portfolio-nextjstailwind/static/js/main.0d13c21c.js.map"
   },
   "entrypoints": [
-    "static/css/main.35b31458.css",
-    "static/js/main.54283623.js"
+    "static/css/main.86af774a.css",
+    "static/js/main.0d13c21c.js"
   ]
 }
